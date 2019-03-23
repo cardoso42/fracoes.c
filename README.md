@@ -1,0 +1,2 @@
+# fracoes.c
+Estava fazendo um programa em C para classificar e calcular as soluções de sistemas lineares como uma forma de revisar o conteúdo e percebi que pelas aproximações decimais da linguagem, os erros, às vezes, se acumulavam a ponto de resultarem em valores bem distantes da realidade. Então criei esse arquivo de C com funções sobre frações para, quem sabe, assim obter resultados mais precisos.
